@@ -41,7 +41,7 @@
         <li><a href="Cổng.jsp">Trang chủ</a></li>
         <li><a href="note.jsp">Giới thiệu</a></li>
         <li class="dropdown">
-          <a href="#">Khám phá <i class="fa fa-caret-down"></i></a>
+          <a href="#">Khám phá hhh <i class="fa fa-caret-down"></i></a>
           <ul class="dropdown-content">
             <li><a href="Dulich.jsp">Du lịch</a></li>
             <li><a href="Lehoi.jsp">Lễ hội</a></li>
